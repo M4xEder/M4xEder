@@ -3,8 +3,8 @@
 - 📚  Sou um iniciante no mundo da programação.
 <div align="center">
   <a href="https://github.com/M4xEder">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4xEder&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4xEder&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=M4xEder&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4xEder&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ##
