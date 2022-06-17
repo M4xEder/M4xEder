@@ -1,4 +1,4 @@
-# OLa, sou Max Elder 👋
+# Ola, sou Max Elder 👋
 
 - 📚  Sou um iniciante no mundo da programação.
 <div align="center">
